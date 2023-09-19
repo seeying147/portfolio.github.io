@@ -9,6 +9,9 @@
 View complete project [here](https://seeying147.github.io/cardiovascular-analysis/).
 
 <div style="text-align: justify">This project focused on analyzing patients with cardiovascular disease aged 39-64. It involved data cleaning and preprocessing, performing exploratory data analysis (EDA), analyzing the correlation between variables and performing hypothesis testing(e.g.: ANOVA, f-test, t-test).</div> 
+<br>
+<center><img src="images/Cardiodata.png"/></center>
+<br>
 
 ---
 ### Bellabeat Smart Device Usage Analysis
@@ -23,8 +26,9 @@ View complete project [here](https://seeying147.github.io/Bellabeat-Analysis/).
 * What is the distribution of the weight range among participants?
 * How does the sleep performance differ throughout the week?
 </div>
-
-<center><img src="images/BERT-classification.png"/></center>
+<br>
+<center><img src="images/Bellabeat.png"/></center>
+<br>
 
 ---
 ## Data Science
