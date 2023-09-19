@@ -36,7 +36,7 @@ View complete project [here](https://seeying147.github.io/Bellabeat-Analysis/).
 View complete project [here](https://seeying147.github.io/pimaindians-diabetes-analysis/).
 <div style="text-align: justify"> The main objective of this study is to determine which factors have the most significant impact on diabetes in women specifically. After performing comprehensive exploratory data analysis to understand important variables, I explored the different machine-learning techniques for prediction and classification. Under prediction, the performance between linear regression and KNN regression models are compared to find out which predictor variables have the highest significance towards ‘glucose’. I used logistic regression for classification to find out our main objective by analysing the p-values and the estimated coefficient.   </div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/PimaIndians.png"/></center>
 <br>
 
 
