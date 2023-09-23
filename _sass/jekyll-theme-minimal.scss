@@ -105,18 +105,10 @@ img {
 }
 
 header {
-  width:270px;
+  width:auto;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-}
-
-header p {
-  color: #727272;
-  font-weight: 400;
-  margin: 10px 0; /* Add some margin to separate the text */
-  font-size: 16px; /* Adjust the font size as needed */
-  line-height: 1.5; /* Adjust the line height as needed */
 }
 
 ul.downloads {
