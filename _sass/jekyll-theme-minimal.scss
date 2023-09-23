@@ -104,11 +104,24 @@ img {
   max-width:100%;
 }
 
+/* Adjust the header styles */
 header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  width: auto; /* Remove fixed width to allow dynamic width */
+  float: left;
+  position: static; /* Remove fixed positioning */
+  -webkit-font-smoothing: subpixel-antialiased;
+  padding: 20px; /* Add padding to give space around the content */
+  background-color: #fff; /* Set a background color to ensure contrast */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a shadow for better visibility */
+}
+
+/* Adjust the description text styles */
+header p {
+  color: #727272;
+  font-weight: 400;
+  margin: 10px 0; /* Add some margin to separate the text */
+  font-size: 16px; /* Adjust the font size as needed */
+  line-height: 1.5; /* Adjust the line height as needed */
 }
 
 ul.downloads {
