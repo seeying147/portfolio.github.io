@@ -107,9 +107,13 @@ img {
 header {
   width:270px;
   float:left;
-  position:fixed;
+  position: sticky;
+  top: 0;
   -webkit-font-smoothing:subpixel-antialiased;
+  max-height: 100vh; 
+  overflow-y: auto;
 }
+
 
 ul.downloads {
   list-style:none;
