@@ -196,7 +196,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 960px) {
 
   div.wrapper {
     width:auto;
@@ -231,21 +231,28 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media screen and (max-width: 720px) {
+  /* Allow text to wrap */
   body {
-    word-wrap:break-word;
+    word-wrap: break-word;
   }
 
+  /* Remove any padding from the header */
   header {
-    padding:0;
+    padding: 0;
   }
 
-  header ul, header p.view {
-    position:static;
+  /* Allow header content to flow naturally */
+  header ul,
+  header p.view {
+    position: static;
   }
 
-  pre, code {
-    word-wrap:normal;
+  /* Allow code and pre elements to wrap text */
+  pre,
+  code {
+    word-wrap: normal;
+    white-space: pre-wrap; /* Allow text to wrap within code elements */
   }
 }
 
