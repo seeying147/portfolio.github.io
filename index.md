@@ -20,13 +20,16 @@ View complete project [here](https://seeying147.github.io/cardiovascular-analysi
 
 View complete project [here](https://seeying147.github.io/Bellabeat-Analysis/).
 <div style="text-align: justify">The goal of this project is to recommend marketing strategies to a tech company Bellabeat by investigating the Fitbit Fitness Tracker database. I queried the database in MySQL to perform data manipulation which involved joining multiple tables, creating Common Table Expressions(CTE) and logical conditions. Data visualization is performed to explore the correlation between variables and answer the following questions:
-- What is the distribution of the activity level among participants?
-- At what time are the average calories, steps and intensity the highest?
-- What is the distribution of the weight range among participants?
-- How does the sleep performance differ throughout the week? 
-
-<center><img src="images/Bellabeat.png"/></center>
+<ol>  
+  <li>What is the distribution of the activity level among participants?</li>
+  <li>At what time are the average calories, steps and intensity the highest?</li>
+  <li>What is the distribution of the weight range among participants?</li>
+  <li>How does the sleep performance differ throughout the week?</li> 
+</ol>
 </div>
+<br>
+<center><img src="images/Bellabeat.png"/></center>
+<br>
 
 ---
 ## Data Science
