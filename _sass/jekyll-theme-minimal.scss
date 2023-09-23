@@ -111,13 +111,6 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-/* Add responsive styles for the header description */
-.description {
-  max-width: 100%; /* Allow the container to adapt to the screen width */
-  padding: 0 20px; /* Add some padding to provide space on the sides */
-  box-sizing: border-box; /* Include padding in the width calculation */
-}
-
 ul.downloads {
   list-style:none;
   height:40px;
