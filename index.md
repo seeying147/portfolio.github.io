@@ -16,9 +16,9 @@ View complete project [here](https://seeying147.github.io/cardiovascular-analysi
 ---
 ### Bellabeat Smart Device Usage Analysis
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/seeying147/Bellabeat-Analysis)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/seeying147/Bellabeat-Project)
 
-View complete project [here](https://seeying147.github.io/Bellabeat-Analysis/).
+View complete project [here](https://seeying147.github.io/Bellabeat-Project/).
 <div style="text-align: justify">This project aims to recommend marketing strategies to a tech company, Bellabeat, by investigating the Fitbit Fitness Tracker database. I queried the database in MySQL to perform data manipulation, which involved joining multiple tables creating Common Table Expressions(CTE) and logical conditions. I performed data visualization to explore the correlation between variables and answer the following questions:
 <ol>  
   <li>What is the distribution of the activity level among participants?</li>
