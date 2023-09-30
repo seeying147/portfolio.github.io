@@ -52,7 +52,7 @@ View complete project [here](https://seeying147.github.io/pimaindians-diabetes-a
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/seeying147/pentago-project)
 <div style="text-align: justify"> Pentago is a Python-based implementation of the classic Connect 4 game, enriched with an innovative twist – the ability to rotate specific quadrants of the game board. This project offers an engaging and strategic gaming experience, combining the familiar rules of Connect 4 with a unique rotational mechanic.</div>
 <br>
-<center><img src="images/pentago.jpg"/></center>
+<center><img src="images/pentago.jpg" width="290" height="300"></center>
 <br>
 
 ---
